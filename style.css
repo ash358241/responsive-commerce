@@ -1,0 +1,130 @@
+* {
+  font-family: "Imbue", serif;
+  font-family: "Lobster Two", cursive;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: darkslategray;
+  font-weight: 700;
+}
+
+h4 {
+  color: goldenrod;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 20px;
+  color: darkslategray;
+  font-weight: 700;
+}
+
+.top-banner img {
+  height: 500px;
+  width: 100%;
+}
+
+main {
+  width: 1170px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+.line-one {
+  color: orange;
+  font-weight: 700;
+}
+
+.line-two {
+  color: darkslategray;
+  font-weight: 700;
+}
+
+.main {
+  background-color: rgba(255, 192, 203, 0.18);
+  min-height: 650px;
+}
+.header-banner-part {
+  width: 1170px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.btn {
+  color: white;
+  background-color: yellowgreen;
+  padding: 15px 30px;
+  border-radius: 10px;
+  margin: 0 20px;
+}
+
+.fashion-card,
+.featured-card {
+  border: 0;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.fashion-card img {
+  background-color: rgba(211, 211, 211, 0.35);
+  height: 350px;
+  border-radius: 20px;
+}
+
+.fashion-footer {
+  border: 0;
+  background-color: white;
+}
+
+.image img {
+  height: 300px;
+  width: 100%;
+}
+
+.logo img {
+  height: 80px;
+  margin-right: 20px;
+}
+
+.part {
+  border-radius: 10px;
+}
+
+hr {
+  margin: 0 400px;
+  color: black;
+}
+
+.featured-card img {
+  height: 200px;
+  width: 100%;
+}
+
+.filled {
+  color: gold;
+}
+
+.unfilled {
+  color: lightgrey;
+}
+
+footer {
+  background-color: lightgrey;
+  min-height: 300px;
+}
+
+footer img {
+  height: 70px;
+  width: 50%;
+}
